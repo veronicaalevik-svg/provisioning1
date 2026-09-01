@@ -1,0 +1,72 @@
+[
+  {
+    "id": "101",
+    "firstName": "kalle",
+    "lastName": "anka",
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "id": "102",
+    "firstName": "kajsa",
+    "lastName": "anka",
+    "department": "HR",
+    "isActive": true
+  },
+  {
+    "id": "103",
+    "firstName": "sigge",
+    "lastName": "mcKvack",
+    "department": "IT",
+    "isActive": false
+  },
+  {
+    "id": "104",
+    "firstName": "joakim",
+    "lastName": "vonanka",
+    "department": "Finance",
+    "isActive": true
+  },
+  {
+    "id": "105",
+    "firstName": "marten",
+    "lastName": "gas",
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "id": "106",
+    "firstName": "oppfinnar",
+    "lastName": "jocke",
+    "department": "R&D",
+    "isActive": false
+  },
+  {
+    "id": "107",
+    "firstName": "knatte",
+    "lastName": "anka",
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "id": "108",
+    "firstName": "fnatte",
+    "lastName": "anka",
+    "department": "IT",
+    "isActive": true
+  },
+  {
+    "id": "109",
+    "firstName": "tjatte",
+    "lastName": "anka",
+    "department": "IT",
+    "isActive": false
+  },
+  {
+    "id": "110",
+    "firstName": "kommisare",
+    "lastName": "karlsson",
+    "department": "Security",
+    "isActive": true
+  }
+]
