@@ -20,7 +20,7 @@ jobs:
       shell: powershell
       run: |
         $API_KEY = "st-veronica-ramirez-levik-b4d5d9"
-        $URL = "https://systementor.se"
+        $URL = "https://systementor.se/api/provision/advanced"
         $FILE = "users.json"
 
         # Kontrollera att filen faktiskt finns
